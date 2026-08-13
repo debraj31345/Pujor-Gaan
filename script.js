@@ -35,7 +35,7 @@ socket.on('connect_error', () => {
 // Removed rotating captions per user request
 
 // --- MUSIC PLAYER (YOUTUBE API) ---
-const PLAYLIST_ID = 'PLUKIH0LYxPiA'; // User's custom playlist
+const PLAYLIST_ID = 'PLE5lMB1jmOCo'; // User's custom playlist
 
 // Load the IFrame Player API code asynchronously to prevent race conditions
 var tag = document.createElement('script');
